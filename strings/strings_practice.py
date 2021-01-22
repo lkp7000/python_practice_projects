@@ -1,3 +1,6 @@
+
+# This file contains some useful methods and features for Integers and Floats
+
 # string format method
 name = 'John'
 greeting = 'Hello'
